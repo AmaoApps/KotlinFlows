@@ -1,16 +1,15 @@
-![The Well App](thumbnail.png)
-
+![The Well App](banners-04.jpg)
 <div align='center'>
   
-<a href='https://github.com/chroline/well_app/releases'>
+<a href='https://paku.pe'>
   
-<img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
+<img src='https://img.shields.io/badge/_VERSION_-1.0-brightgreen'>
   
 </a>
   
 <a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
   
-<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
+<img src='https://img.shields.io/badge/_LICENSE_-MIT-blue'>
   
 </a>
   
@@ -24,21 +23,17 @@
   
 ### Quick Links
   
-<a href='https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
-  
-<img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
-  
 </a>
   
 <a href='https://projects.colegaw.in/well-app/research?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   
-<img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
+<img src='https://img.shields.io/badge/DOCUMENTACION-blue?style=for-the-badge'>
   
 </a>
   
 <a href='https://projects.colegaw.in/well-app/case-study?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
   
-<img src='https://img.shields.io/badge/CASE STUDY-green?style=for-the-badge'>
+<img src='https://img.shields.io/badge/CASO DE EXITO-green?style=for-the-badge'>
   
 </a>
   
